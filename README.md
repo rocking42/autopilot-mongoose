@@ -1,6 +1,8 @@
-# Autopilot API
+# Mongo Autopilot API
 
 This is a simple Autopilot Node API that displays users and allows additional users to to be added to the system.
+
+MongoDB and Node must be installed prior to running
 
 To setup simply clone the repo and run:
 ```
@@ -22,4 +24,4 @@ I wanted to get the API running with mongoose so I used the help of few Scotch g
 
 All GET/POST methods were tested real time using Postman.
 
-This was the first time running tests on Node/Express and it was an awesome learning experience!
+This was the first time integrating Mongoose, it was good to see it in action compared to Postgresql.
